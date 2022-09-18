@@ -6,6 +6,8 @@ Sets your Desktop wallpaper using directories.
 
 Get the path of a PNG,JPEG or JPG.
 
+Example: C:\Users\Name\Downloads\Image.png
+
 Put into Textbox
 
 Press Button
