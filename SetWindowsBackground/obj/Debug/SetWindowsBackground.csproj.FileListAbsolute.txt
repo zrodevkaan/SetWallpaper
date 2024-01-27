@@ -9,3 +9,13 @@ D:\VisualStudioCodeProjects\SetWindowsBackground\SetWindowsBackground\obj\Debug\
 D:\VisualStudioCodeProjects\SetWindowsBackground\SetWindowsBackground\obj\Debug\SetWindowsBackground.csproj.CoreCompileInputs.cache
 D:\VisualStudioCodeProjects\SetWindowsBackground\SetWindowsBackground\obj\Debug\SetWindowsBackground.exe
 D:\VisualStudioCodeProjects\SetWindowsBackground\SetWindowsBackground\obj\Debug\SetWindowsBackground.pdb
+E:\GithubClones\SetWallpaper\SetWindowsBackground\bin\Debug\SetWindowsBackground.exe.config
+E:\GithubClones\SetWallpaper\SetWindowsBackground\bin\Debug\SetWindowsBackground.exe
+E:\GithubClones\SetWallpaper\SetWindowsBackground\bin\Debug\SetWindowsBackground.pdb
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Debug\SetWindowsBackground.csproj.AssemblyReference.cache
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Debug\SetWindowsBackground.Form1.resources
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Debug\SetWindowsBackground.Properties.Resources.resources
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Debug\SetWindowsBackground.csproj.GenerateResource.cache
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Debug\SetWindowsBackground.csproj.CoreCompileInputs.cache
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Debug\SetWindowsBackground.exe
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Debug\SetWindowsBackground.pdb
