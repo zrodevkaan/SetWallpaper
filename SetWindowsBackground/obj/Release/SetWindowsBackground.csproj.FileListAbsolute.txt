@@ -1,0 +1,10 @@
+E:\GithubClones\SetWallpaper\SetWindowsBackground\bin\Release\SetWindowsBackground.exe.config
+E:\GithubClones\SetWallpaper\SetWindowsBackground\bin\Release\SetWindowsBackground.exe
+E:\GithubClones\SetWallpaper\SetWindowsBackground\bin\Release\SetWindowsBackground.pdb
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Release\SetWindowsBackground.csproj.AssemblyReference.cache
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Release\SetWindowsBackground.Form1.resources
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Release\SetWindowsBackground.Properties.Resources.resources
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Release\SetWindowsBackground.csproj.GenerateResource.cache
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Release\SetWindowsBackground.csproj.CoreCompileInputs.cache
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Release\SetWindowsBackground.exe
+E:\GithubClones\SetWallpaper\SetWindowsBackground\obj\Release\SetWindowsBackground.pdb
