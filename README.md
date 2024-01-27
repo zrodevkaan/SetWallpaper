@@ -1,6 +1,7 @@
 # SetWallpaper
 
 Sets your Desktop wallpaper using directories.
+This allows you to set your wallpaper if you don't have windows activated.
 
 # How to use.
 
