@@ -11,3 +11,5 @@ Example: C:\Users\Name\Downloads\Image.png
 Put into Textbox
 
 Press Button
+
+Make sure to have it like so: `C:\Users\user\Downloads\windows.jpg` not `"C:\Users\user\Downloads\windows.jpg"`
