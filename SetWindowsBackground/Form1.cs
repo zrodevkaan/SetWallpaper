@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -20,6 +21,14 @@ namespace SetWindowsBackground
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var FileDialog = new OpenFileDialog();
+            FileDialog.ShowDialog();
+            
+            DisplayPicture(FileDialog.FileName);
         }
     }
 }
